@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SPOJ\SPOJ_Classic_Prime1\SPOJ_Classic_Prime1\bin\Debug\SPOJ_Classic_Prime1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SPOJ\SPOJ_Classic_Prime1\SPOJ_Classic_Prime1\bin\Debug\SPOJ_Classic_Prime1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SPOJ\SPOJ_Classic_Prime1\SPOJ_Classic_Prime1\bin\Debug\SPOJ_Classic_Prime1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SPOJ\SPOJ_Classic_Prime1\SPOJ_Classic_Prime1\obj\Debug\SPOJ_Classic_Prime1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SPOJ\SPOJ_Classic_Prime1\SPOJ_Classic_Prime1\obj\Debug\SPOJ_Classic_Prime1.pdb
